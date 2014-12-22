@@ -35,11 +35,15 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-A declaration exhibited to the French king, by hys Court of Parlyament concerning the holy League Wh
+
 #####Body#####
-A declaration exhibited to the French king, by hys Court of Parlyament concerning the holy League Wh
+
+1. ❧A Declaration exhibited to the King, by his Court of Parlyament.
+
+1. An aduertiſement to the three Eſtates of Fraunce, concerning the warre of the League.
+
 #####Back#####
-A declaration exhibited to the French king, by hys Court of Parlyament concerning the holy League Wh
+Imprinted at London by Abell Ieffes, for Thomas Cadman. 1587.
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
